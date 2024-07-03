@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm RedonMehmeti</h1>
+<h1 align="center">Hi 👋, I'm BlondJakupi</h1>
 <h3 align="center">Hello i am from Kosova.I want to be a professional programmer,developer.</h3>
 
-- 📫 How to reach me **redonmehmeti2019@gmail.com**
+- 📫 How to reach me **jakupiblend55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
